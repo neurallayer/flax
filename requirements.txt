@@ -2,5 +2,5 @@ numpy
 jaxlib
 jax
 # tensorflow is needed for tensorflow-datasets
-tensorflow
-tensorflow-datasets
+# tensorflow
+# tensorflow-datasets
